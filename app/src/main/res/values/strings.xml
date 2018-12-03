@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GAYNOR</string>
+    <string name="a01_button1">GAME START</string>
+    <string name="a01_button2">CONTROLS</string>
+    <string name="a01_button3">HIGH SCORE</string>
+    <string name="a01_button4">QUIT</string>
+    <string name="a02_buttons">\?\?\?</string>
+</resources>
